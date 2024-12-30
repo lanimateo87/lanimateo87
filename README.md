@@ -1,1 +1,1 @@
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/g4KMHEUUcJVLdnAqCu8M5B/Resume?node-id=0-1&embed-host=share" allowfullscreen></iframe>
+![Resume](https://raw.githubusercontent.com/lanimateo87/lanimateo87/main/Resume.png)
